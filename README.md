@@ -6,12 +6,18 @@
 
 1. **HTML Form:**
 This project provides a straightforward HTML form template. Whether you need a contact form, a survey, or any other type of input form, this template can serve as a solid starting point. It's clean, minimalistic, and easy to customize, making it a versatile tool for gathering user input on your website.
+<img src="https://github.com/Asif-rehman012/html_forms-Resume-Product_catalog/blob/main/ScreenShots/Screenshot%20(337).png" width="50%" height="50%">
 
+![Alt](https://github.com/Asif-rehman012/html_forms-Resume-Product_catalog/blob/main/ScreenShots/Screenshot%20(338).png)
+![Alt](https://github.com/Asif-rehman012/html_forms-Resume-Product_catalog/blob/main/ScreenShots/Screenshot%20(339).png)
 2. **HTML Resume:**
 The HTML Resume project offers a simple and effective solution for creating an online resume using only HTML. It's designed to help you showcase your skills, experiences, and qualifications in a clear and concise manner. Whether you're a job seeker looking to stand out or simply want to share your professional background online, this template has you covered.
+![Alt](https://github.com/Asif-rehman012/html_forms-Resume-Product_catalog/blob/main/ScreenShots/Screenshot%20(340).png)
 
 3. **HTML Product Catalog:**
 If you're looking to display and organize product information online, the HTML Product Catalog is the ideal choice. This project allows you to create a product catalog with ease. You can customize it to list your own products, complete with details such as product names, descriptions, prices, and images. It's a user-friendly and responsive solution for showcasing your merchandise
+![Alt](https://github.com/Asif-rehman012/html_forms-Resume-Product_catalog/blob/main/ScreenShots/Screenshot%20(336).png)
+
 
 **How to Use:**
 ```diff
